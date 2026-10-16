@@ -1,4 +1,4 @@
-## donavto-db-api
+# donavto-db-api
 
 Учебный проект: БД на PostgreSQL, REST API и тесты в Postman для сервиса грузоперевозок.
 
